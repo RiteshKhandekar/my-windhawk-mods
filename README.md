@@ -1,6 +1,6 @@
 # My Windhawk Mods
 
-[Windhawk](https://windhawk.net/) mods I have written.
+[Windhawk](https://windhawk.net/) mods I have written or modified.
 
 ## Mods
 
