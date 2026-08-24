@@ -18,6 +18,8 @@ The highlight behind a selected desktop icon is a plain slab as wide as the whol
 icon cell, so selections in neighbouring columns touch with no gap. This mod
 replaces it with one you can actually style.
 
+![Two selected icons with a narrowed plate, rounded corners, a dashed white border and an accent glow](https://raw.githubusercontent.com/RiteshKhandekar/my-windhawk-mods/5ebcc1c89d87c2d15ca7da2f2545cbaef4938870/attachments/desktop-icon-selection-style.png)
+
 ## Features
 
 - **Narrow it.** Plate width is a percentage of the icon cell, so it looks right
