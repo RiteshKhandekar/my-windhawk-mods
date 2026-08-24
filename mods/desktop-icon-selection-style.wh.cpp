@@ -15,10 +15,18 @@
 # Desktop Icon Selection Style
 
 The highlight behind a selected desktop icon is a plain slab as wide as the whole
-icon cell, so selections in neighbouring columns touch with no gap. This mod
-replaces it with one you can actually style.
+icon cell, so selections in neighbouring columns run together into one block.
+This mod replaces it with one you can actually style.
 
-![Two selected icons with a narrowed plate, rounded corners, a dashed white border and an accent glow](https://raw.githubusercontent.com/RiteshKhandekar/my-windhawk-mods/5ebcc1c89d87c2d15ca7da2f2545cbaef4938870/attachments/desktop-icon-selection-style.png)
+**Before** - two selected icons, stock highlight, touching edge to edge:
+
+![Two selected desktop icons with the stock highlight, a pair of rectangular slabs meeting with no gap between them](https://raw.githubusercontent.com/RiteshKhandekar/my-windhawk-mods/9570a63ad341cef48f91a5b37ad3d72fd95420e5/attachments/desktop-icon-selection-style-before.png)
+
+**After** - narrowed, rounded, with a dashed border and an accent glow:
+
+![The same two icons with the mod enabled, each highlight narrower than its cell with rounded corners, a dashed white border and a soft accent glow](https://raw.githubusercontent.com/RiteshKhandekar/my-windhawk-mods/9570a63ad341cef48f91a5b37ad3d72fd95420e5/attachments/desktop-icon-selection-style-after.png)
+
+Everything in the after shot is configurable, and all of it can be turned off.
 
 ## Features
 
